@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "title": "Grocery shop",
+        "text": "Don't forget to do this",
+        "note_id": "c772"
+    },
+    {
+        "title": "Car shopping",
+        "text": "Don't forget to do this",
+        "note_id": "7fb1"
+    }
+]
