@@ -12,5 +12,15 @@
         "title": "Car shopping",
         "text": "Don't forget to do this",
         "note_id": "7fb1"
+    },
+    {
+        "title": "Laundry",
+        "text": "It's a great day to do laundry",
+        "note_id": "1869"
+    },
+    {
+        "title": "Workout",
+        "text": "It's a great day to work out",
+        "note_id": "4676"
     }
 ]
