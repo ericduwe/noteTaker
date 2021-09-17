@@ -6,21 +6,26 @@
     {
         "title": "Grocery shop",
         "text": "Don't forget to do this",
-        "note_id": "c772"
+        "id": "c772"
     },
     {
         "title": "Car shopping",
         "text": "Don't forget to do this",
-        "note_id": "7fb1"
+        "id": "7fb1"
     },
     {
         "title": "Laundry",
         "text": "It's a great day to do laundry",
-        "note_id": "1869"
+        "id": "1869"
     },
     {
         "title": "Workout",
         "text": "It's a great day to work out",
-        "note_id": "4676"
+        "id": "4676"
+    },
+    {
+        "id": "f89b",
+        "title": "Test note",
+        "text": "test note text"
     }
 ]
